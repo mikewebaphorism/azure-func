@@ -10,6 +10,11 @@ using Newtonsoft.Json;
 
 namespace azure_func
 {
+    /// <summary>
+    /// 
+    /// Balls
+    /// 
+    /// </summary>
     public static class Function1
     {
         [FunctionName("Function1")]
